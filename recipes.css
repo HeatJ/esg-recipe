@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'EF_MACHO';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-01@1.0/EF_MACHO.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  font-family: 'EF_MACHO';
+  box-sizing: border-box;
+  
+}
+
+.tt {
+  position: relative;
+  top:200px;
+  font-size:80px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        0px;
+}
+
+.image_food {
+  overflow: hidden;
+  display: flex;
+  width: 600px;
+  height:400px;
+  position: relative;
+  top:0px;
+  left:0px;
+}
+
+.home{
+  position: relative;
+  top:130px;
+  left:-200px;
+  font-size:30px;
+}
+
+.search {
+  position: relative;
+  top:100px;
+  left:700px;
+}
+
+body{
+  border: 10px double;
+  border-color: cornflowerblue;
+  background-color: azure;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 120vh;
+  margin: 0 auto;
+  background-color: #daf2f5;
+}
+
+
+
+footer {
+  display: block;
+}
