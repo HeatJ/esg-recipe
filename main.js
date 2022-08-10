@@ -32,7 +32,7 @@ const searchMeal = async e => {
           <img src="${meal.strMealThumb}" alt="${meal.strMeal}"/>
         </div>
       </div>
-      `
+      
         )
         .join("");
     }
